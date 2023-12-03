@@ -222,7 +222,7 @@ TODO: add option C<$minoffset>, C<$maxoffset>.
 Like C</mtremovestr> except comparison is done using C<==> operator instead of
 C<eq>.
 
-=head2 mtremovellnum
+=head2 mtremoveallnum
 
 Like C</mtremoveallstr> except comparison is done using C<==> operator instead
 of C<eq>.
